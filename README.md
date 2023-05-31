@@ -6,6 +6,7 @@ The purpose of this project is to distinguish the resellers from the customers w
 The project involves a binary classification problem that may require feature engineering if necessary. The data source is a structured dataset in the database, which includes numerical and categorical features.
 
 Dataset column descriptions:
+
       'sales_channel_id': US sales channel id is 1, integer 
 
       'external_customer_id': customer id, integer 
