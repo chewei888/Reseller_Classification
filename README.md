@@ -47,3 +47,7 @@ Dataset column descriptions:
       'rfm_score': r_score + f_score + m_score, integer 
 
       'is_reseller': 1 (reseller) or 0 (normal customer), this is the target, integer
+
+Data Flow Chart:
+
+![image](https://github.com/chewei888/Reseller_Classification/assets/135100245/11fbff04-5049-4ddd-867e-203c8028d012)
